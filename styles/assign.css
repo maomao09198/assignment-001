@@ -253,3 +253,8 @@ main section{
     background-color: white;
    margin-top: -80px;
 }
+.about-items-1{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
