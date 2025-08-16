@@ -147,7 +147,7 @@ main section{
 }
 .about-items{
     display: flex;
-    gap: 40px;
+    gap: 200px;
     justify-content: center;
     
 }
